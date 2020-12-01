@@ -1,0 +1,40 @@
+CREACIÓN Y REGISTRO
+*Crear cuenta en bitbucket
+*Crear proyecto en bitbucket
+*Agregar integrante al equipo
+*Asignar permisos a integrante
+
+ADMINSITRACION - COMANDOS
+*Clonar proyecto.
+*Bajar actualización o cambios del proyecto
+*Subir actualización o cambios del proyecto
+*Controlar hilos o ramas de versionamiento
+*Administrar versionamiento (por diferentes fechas)
+*Gestionar servicios desde visual studio code
+
+TERMINOS Y CONDICIONES
+*Tipo de licencia
+**Repositorio abierto
+**Repositorio cerrado
+**características y cantidad de personas por equipo
+*Herramientas requeridas
+*Uso de servicios en herramientas terceros
+
+Nota: Realizar practica compartiendo desde desde la creación del proyecto modelo al correo ariel5253@misena.edu.co (Con permiso de adminsitrador) - Proyecto significa el que el aprendiz crea para poder realizar la practica, apropiar y documentar la actividad a entregar.
+ es un repositorio 
+**************
+ACTIVIDAD GRUPAL
+**************
+El líder debe gestionar la creación y publicación del proyecto. Publicar el contenido actual avanzado del proyectos en ejecución, así mismo compartir al correo ariel5253@misena.edu.co, con permiso de administrador (edición total)
+AJUSTE   trabajar en el proyecto 
+
+
+
+
+por equipo de trabajo  todo el trabajo  y que el miercoles todo y cada uno participemos  real y funcional  en el proyecto formativo  sea en esa herramienta o en otra pero el grupo responde por el versionamiento ,cada grupo muestra un documento donde demuestre su applicacion
+
+para que sirve el versionamiento y que hicieron 
+
+ descargo la version y despues subo  sin haber bajado ,daño to lo hecho en el dia ,ya que baja todo lo sincronizado con los cambios ,espero a que suban las actualizaciones 
+
+rupturas en el proceso de codificacion 
